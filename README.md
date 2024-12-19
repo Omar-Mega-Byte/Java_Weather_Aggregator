@@ -47,3 +47,12 @@ A JavaFX application that provides real-time weather updates for various cities,
 
 ## License
 This project is licensed under the MIT License.
+
+### Team Members:
+- Omar Ahmed
+- Refaat Ismail
+- Sara Ashraf
+- Ahmed Hossam
+- Ali Gomaa
+- Ahmed Maghawry
+
